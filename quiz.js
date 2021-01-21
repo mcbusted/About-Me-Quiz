@@ -5,7 +5,6 @@ console.log("Hello ",userName);
 var Gaurav =
 {
   name: 'Gaurav',
-  company : 'KPMG',
   age : 23
   
 }   
@@ -25,8 +24,8 @@ var questions =
     answer: 23,
   },
   {
-    question: "Which company does he work in ? :",
-    answer: "KPMG",
+    question: "Which language does he prefer using? :",
+    answer: "javascript",
   },
 
   {
